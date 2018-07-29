@@ -1,0 +1,3 @@
+# spring-data-demo
+一个spring data 的入门demo练习
+连接myspl对数据库实现基本的CRUD以及查询结果的排序及根据条件查询后对结果进行排序等操作的demo
